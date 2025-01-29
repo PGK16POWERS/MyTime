@@ -2,5 +2,6 @@
 <resources>
     <style name="Theme.Splashscreen.Starting" parent="Theme.SplashScreen">
         <item name="windowSplashScreenBackground">@color/black</item>
+        <item name="postSplashScreenTheme">@style/Theme.MyTime</item>
     </style>
 </resources>
